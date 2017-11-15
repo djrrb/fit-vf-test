@@ -13,6 +13,9 @@ I see this issue in <del>fontview v0.2.3</del> (edit: [now fixed](https://github
 
 ![Variable font in photoshop](screenshot-ps.png)
 
+![Variable font in Illustrator](screenshot-il.png)
+
+
 How the wide S should look (from 3-vf/Fit-UltraExtended.ufo in RoboFont)
 
 ![UFO in RoboFont](screenshot-rf.png)

@@ -29,6 +29,104 @@
         
     </sources>
     <instances>
+        <instance familyname="Fit" filename="2-build/Fit-Compressed.ufo" name="instance_Compressed" stylemapstylename="regular" stylename="Compressed">
+            <location>
+                <dimension name="Width" xvalue="10" />
 
+            </location>
+            <glyphs>
+                <glyph mute="1" name="" />
+            </glyphs>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Fit" filename="2-build/Fit-Extra_Condensed.ufo" name="instance_Extra_Condensed" stylemapstylename="regular" stylename="Extra Condensed">
+            <location>
+                <dimension name="Width" xvalue="27" />
+
+            </location>
+            <glyphs>
+                <glyph mute="1" name="" />
+            </glyphs>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Fit" filename="2-build/Fit-Condensed.ufo" name="instance_Condensed" stylemapstylename="regular" stylename="Condensed">
+            <location>
+                <dimension name="Width" xvalue="56" />
+
+            </location>
+            <glyphs>
+                <glyph mute="1" name="" />
+            </glyphs>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Fit" filename="2-build/Fit-Regular.ufo" name="instance_Regular" stylename="Regular">
+            <location>
+                <dimension name="Width" xvalue="100" />
+
+            </location>
+            <glyphs>
+                <glyph mute="1" name="" />
+            </glyphs>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Fit" filename="2-build/Fit-Wide.ufo" name="instance_Wide" stylemapstylename="regular" stylename="Wide">
+            <location>
+                <dimension name="Width" xvalue="191" />
+
+            </location>
+            <glyphs>
+                <glyph mute="1" name="" />
+            </glyphs>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Fit" filename="2-build/Fit-Extra_Wide.ufo" name="instance_Extra_Wide" stylemapstylename="regular" stylename="Extra Wide">
+            <location>
+                <dimension name="Width" xvalue="335" />
+
+            </location>
+            <glyphs>
+                <glyph mute="1" name="" />
+            </glyphs>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Fit" filename="2-build/Fit-Extended.ufo" name="instance_Extended" stylemapstylename="Extended" stylename="Extended">
+            <location>
+                <dimension name="Width" xvalue="580" />
+ 
+            </location>
+            <glyphs>
+                <glyph mute="1" name="" />
+            </glyphs>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Fit" filename="2-build/Fit-Extra_Extended.ufo" name="instance_Extra_Extended" stylemapstylename="regular" stylename="Extra Extended">
+            <location>
+                <dimension name="Width" xvalue="825" />
+
+            </location>
+            <glyphs>
+                <glyph mute="1" name="" />
+            </glyphs>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Fit" filename="2-build/Fit-Ultra_Extended.ufo" name="instance_Ultra_Extended" stylemapstylename="regular" stylename="Ultra Extended">
+            <location>
+                <dimension name="Width" xvalue="1000" />
+
+            </location>
+            <glyphs>
+                <glyph mute="1" name="" />
+            </glyphs>
+            <kerning />
+            <info />
+        </instance>
     </instances>
 </designspace>

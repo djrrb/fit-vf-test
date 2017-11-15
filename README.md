@@ -9,7 +9,7 @@ When the width axis value is higher than default, the font appears to have a chu
 
 ![Variable font in fontmake](screenshot-vf.png)
 
-I see this issue in fontview v0.2.3, in <del>browsers</del> (edit: Chrome and Safari on High Sierra seem to be fine), and in Photoshop CC 2018.
+I see this issue in <del>fontview v0.2.3</del> (edit: [now fixed](https://github.com/fonttools/fonttools/issues/1103) in FontView), <del>browsers</del> (edit: Chrome and Safari on High Sierra seem to be fine), and in Photoshop CC 2018 (19.0 release) and Illustrator CC 22.0.1.
 
 ![Variable font in photoshop](screenshot-ps.png)
 

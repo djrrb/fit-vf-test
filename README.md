@@ -1,2 +1,16 @@
 # fit-vf-test
-For troubleshooting purposes only.
+
+The files in this repo document a variable font where the points don’t seem to be moving as they should be. The variable font was created with:
+
+* fontmake 1.3.1.dev0
+* fonttools (as of 2017-11-05, commit a35707560cca9ae232d5e2b39c563d17586b9fd4)
+
+When the width axis value is higher than default, the font appears to have a chunk missing from the bottom left of the letter. It appears that the points at the bottom left do not move correctly relative to the rest of the letter.
+
+I see this issue in fontview, in browsers, and in Photoshop CC 2018.
+
+![Variable font in fontmake](screenshot-vf.png)
+
+How the wide S should look (from 3-vf/Fit-UltraExtended.ufo in RoboFont)
+
+![UFO in RoboFont](screenshot-rf.png)

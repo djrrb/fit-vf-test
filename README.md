@@ -7,9 +7,11 @@ The files in this repo document a variable font where the points don’t seem to
 
 When the width axis value is higher than default, the font appears to have a chunk missing from the bottom left of the letter. It appears that the points at the bottom left do not move correctly relative to the rest of the letter.
 
-I see this issue in fontview, in browsers, and in Photoshop CC 2018.
-
 ![Variable font in fontmake](screenshot-vf.png)
+
+I see this issue in fontview, in <del>browsers</del> (edit: Chrome and Safari on High Sierra seem to be fine), and in Photoshop CC 2018.
+
+![Variable font in photoshop](screenshot-ps.png)
 
 How the wide S should look (from 3-vf/Fit-UltraExtended.ufo in RoboFont)
 

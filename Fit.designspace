@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <axes>
+        <axis default="100" maximum="1000" minimum="10" name="Width" tag="wdth">
+                    <labelname xml:lang="en">Width</labelname>
+        </axis>
+
+    </axes>
+    <sources>
+        <source familyname="Fit" filename="3-VF/Fit-Skyline.ufo" name="master.Fit.Skyline.0" stylename="Hairline">
+            <location>
+                <dimension name="Width" xvalue="10" />
+            </location>
+        </source>
+        <source familyname="Fit" filename="3-VF/Fit-Regular.ufo" name="master.Fit.Regular.1" stylename="Regular">
+            <groups copy="1" />
+            <features copy="1" />
+            <info copy="1" />
+            <location>
+                <dimension name="Width" xvalue="100" />
+            </location>
+        </source>
+        <source familyname="Fit" filename="3-VF/Fit-UltraExtended.ufo" name="master.Fit.UltraExtended.2" stylename="Ultra Extended">
+            <location>
+                <dimension name="Width" xvalue="1000" />
+            </location>
+        </source>
+        
+        
+    </sources>
+    <instances>
+
+    </instances>
+</designspace>
